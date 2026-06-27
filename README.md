@@ -1,4 +1,4 @@
-# 📦 Wiztree Clone (VFM)
+# 📦 VisualDrive
 
 **A blazing-fast, non-admin treemap visualizer for your folders and drives!**
 
